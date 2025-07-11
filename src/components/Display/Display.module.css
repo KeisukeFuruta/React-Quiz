@@ -1,0 +1,8 @@
+.display {
+  font-size: 40;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #000;
+  margin-bottom: 16px;
+}
